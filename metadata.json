@@ -1,0 +1,6 @@
+{
+  "name": "Color Remover",
+  "description": "Remove colors, erase marker overlays, and inspect image channels and contrast levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
